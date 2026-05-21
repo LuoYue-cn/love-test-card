@@ -2,7 +2,7 @@
 整人专用，正常生成恋爱测试结果，但是点击生成奶龙表白卡
 
 链接：<br>
-love-test-card.h666h.com
+https://love-test-card.h666h.com/
 
 项目由DeepSeek-V4-Pro协助开发。
 
