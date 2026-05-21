@@ -1,7 +1,7 @@
 # 恋爱测试（送表白卡）：love-test-card
 整人专用，正常生成恋爱测试结果，但是点击生成奶龙表白卡
 
-链接：
+链接：<br>
 love-test-card.h666h.com
 
 项目由DeepSeek-V4-Pro协助开发。
